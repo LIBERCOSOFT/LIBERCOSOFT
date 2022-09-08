@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LIBERCOSOFT&label=Profile%20views&color=brightgreen&style=flat-square" alt="libercosoft" /> </p>
 
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="6500" height="320" />
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="650" height="320" />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LIBERCOSOFT&show_icons=true&theme=gotham" alt="libercosoft" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LIBERCOSOFT" alt="libercosoft" /></a> </p>

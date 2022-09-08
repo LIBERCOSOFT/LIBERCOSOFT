@@ -25,7 +25,7 @@
     <img alt="LIBERCOSOFT's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=LIBERCOSOFT&theme=gotham&hide_border=true"/>
 </p>
 
-<h2 align="left">:handshake: **Connect with me**:</h2>
+<h2 align="left">:handshake: Connect with me:</h2>
 <p align="center">
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/kolapo-akinrinlola-072097110/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>

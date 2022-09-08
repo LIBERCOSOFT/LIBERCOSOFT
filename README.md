@@ -8,9 +8,10 @@
 
 - 📫 How to reach me **akinspreciousola@gmail.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LIBERCOSOFT&label=Profile%20views&color=brightgreen&style=flat-square" alt="umerzia" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LIBERCOSOFT&label=Profile%20views&color=brightgreen&style=flat-square" alt="libercosoft" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LIBERCOSOFT&show_icons=true&locale=en" alt="libercosoft" /></p>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LIBERCOSOFT&show_icons=true&theme=gotham" alt="libercosoft" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LIBERCOSOFT" alt="libercosoft" /></a> </p>
 
@@ -21,4 +22,3 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/kolapo-akinrinlola-072097110/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev-umer-zia" height="30" width="40" /></a>
 </p>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />

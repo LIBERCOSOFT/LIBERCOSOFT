@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kolapo Precious Akinrinlola:smiley:</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Kolapo Precious Akinrinlola:smiley:</h1>
 <h2 align="center">MERN Stack Web Developer</h2>
 <h3 align="center">Learning Full Stack Web Development(Ruby and Ruby on Rails)</h3>
 

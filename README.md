@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kolapo Precious Akinrinlola:smiley:</h1>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello!" src="./assets/gh-readme-header.png" /></a></p>
 <h2 align="center">MERN Stack Web Developer</h2>
 <h3 align="center">Learning Full Stack Web Development(Ruby and Ruby on Rails)</h3>
 

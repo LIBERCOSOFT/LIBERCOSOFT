@@ -22,7 +22,7 @@
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
-    <img alt="LIBERCOSOFT's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=LIBERCOSOFT&theme=monokai-metallian&hide_border=true"/>
+    <img alt="LIBERCOSOFT's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=LIBERCOSOFT&theme=gotham&hide_border=true"/>
 </p>
 
 <h3 align="left">Connect with me:</h3>

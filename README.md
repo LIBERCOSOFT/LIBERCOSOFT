@@ -21,3 +21,4 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/kolapo-akinrinlola-072097110/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev-umer-zia" height="30" width="40" /></a>
 </p>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />

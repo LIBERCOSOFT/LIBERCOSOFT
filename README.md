@@ -7,7 +7,7 @@
 - 📫 How to reach me **akinspreciousola@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LIBERCOSOFT&label=Profile%20views&color=brightgreen&style=flat-square" alt="libercosoft" /> <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="900" height="320" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LIBERCOSOFT&show_icons=true&theme=gotham" alt="libercosoft" /> <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LIBERCOSOFT&layout=compact&langs_count=7&theme=gotham&border_radius=0"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LIBERCOSOFT&show_icons=true&theme=gotham" alt="libercosoft" /> <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LIBERCOSOFT&langs_count=7&theme=gotham&border_radius=0"/> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LIBERCOSOFT" alt="libercosoft" /></a> </p>
 

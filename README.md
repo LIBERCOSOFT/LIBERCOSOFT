@@ -32,4 +32,4 @@
 
 </p>
 
-<!-- <img alt="LIBERCOSOFT's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=LIBERCOSOFT&bg_color=0C1014&color=258F76&line=90C5C2&point=FFFFFF&hide_border=true" /> -->
+<img alt="LIBERCOSOFT's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=LIBERCOSOFT&bg_color=0C1014&color=258F76&line=90C5C2&point=FFFFFF&hide_border=true" />
